@@ -1,0 +1,35 @@
+header {
+  text-align: center;
+  font-size: 30px;
+  color: #bd4aff;
+}
+
+main, html {
+  margin: 0;
+  padding: 0;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #accce1;
+}
+
+.container {
+  text-align: center;
+  color: #fc7fee;
+}
+
+.button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 24px;
+  border: none;
+  background-color: #ff008c;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: #2980b9;
+}
+
